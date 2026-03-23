@@ -1,5 +1,3 @@
-# Serundneri-kamurj
-
 # 🌉 Generations Bridge (Serundneri Kamurj)
 
 A web platform for sending messages to elderly people in nursing homes.  
