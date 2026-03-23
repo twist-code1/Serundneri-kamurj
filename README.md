@@ -1,27 +1,37 @@
 # 🌉 Generations Bridge (Serundneri Kamurj)
 
-A web platform for sending messages to elderly people in nursing homes.  
-Developed as a **STEAM project** at Anania Shirakatsi Lyceum.
+A secure web platform for sending letters to nursing homes.  
+**STEAM Project** | Anania Shirakatsi Lyceum
 
-> **Status:** Successfully deployed. Letters were printed and delivered to recipients.
+> **Real-world Impact:** 20+ letters delivered across 1 nursing homes (Feb–Mar 2026).
 
 ---
 
 ## 🛠 Tech Stack
 
 * **Frontend:** HTML5, CSS3, JavaScript (ES6)
-* **Backend/DB:** Firebase Realtime Database
-* **Visualization:** Chart.js (Loneliness statistics)
-* **Design:** Google Fonts, Custom SVG assets
+* **Backend:** Firebase Realtime Database
+* **Visuals:** Chart.js, Custom SVG assets
+* **Optimization:** Mobile-first responsive design
 
 ---
 
-## 📁 Project Structure
+## ✨ Features & Security
+
+* **Dual-Layer Validation:** * **Client-side (JS):** Strict input sanitization and form validation before submission.
+    * **Server-side (Firebase):** Security Rules configured to prevent unauthorized data injection.
+* **Responsive Architecture:** Fully optimized for mobile, tablet, and desktop (Adaptive UI + Custom Mobile Menu).
+* **Live Messaging:** Real-time data sync via Firebase integration.
+* **Data Viz:** Loneliness statistics tracking via Chart.js.
+
+---
+
+## 📁 Structure
 
 ```text
 .
-├── index.html          # Core layout
-├── style.css           # Custom UI / Mobile-first styles
-├── script.js          # Firebase logic & Chart.js init
-├── photos/             # UI assets & icons
-└── screenshots/        # Project previews
+├── index.html          # Core layout & Metadata
+├── style.css           # Mobile-first responsive styles
+├── script.js          # JS Validation, Firebase logic & Chart.js
+├── photos/             # Project assets & icons
+└── screenshots/        # Screenshots from Firebase
