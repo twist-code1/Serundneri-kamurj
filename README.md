@@ -3,10 +3,8 @@
 A secure web platform for sending letters to nursing homes.  
 **STEAM Project** | Anania Shirakatsi Lyceum
 
-Original page: [CLICK HERE](https://serundneri-kamurj.web.app/) (letters are no longer accepted)
-
+Original page: [CLICK HERE](https://serundneri-kamurj.web.app/) (letters are no longer accepted) | 
 GitHub page: [CLICK HERE](https://twist-code1.github.io/Serundneri-kamurj/)
-
 
 > **Real-world Impact:** 20+ letters delivered across 1 nursing homes (Feb–Mar 2026).
 
