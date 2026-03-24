@@ -46,5 +46,5 @@ GitHub page: [CLICK HERE](https://twist-code1.github.io/Serundneri-kamurj/)
 
 ## 🖼️ Screenshots
 
-![Firebase data screenshot](screenshots/firebase-data-screen.png)
-![Firebase data screenshot](screenshots/letter-form-screen.png)
+<img src="screenshots/firebase-data-screen.png" width="400">
+<img src="screenshots/letter-form-screen.png" width="400">
