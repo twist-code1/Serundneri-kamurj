@@ -38,3 +38,11 @@ GitHub page: [CLICK HERE](https://twist-code1.github.io/Serundneri-kamurj/)
 ├── script.js          # JS Validation, Firebase logic & Chart.js
 ├── photos/             # Project assets & icons
 └── screenshots/        # Screenshots from Firebase
+```
+
+---
+
+## 🖼️ Screenshots
+
+![Firebase data screenshot](screenshots/firebase-data-screen.png)
+![Firebase data screenshot](screenshots/letter-form-screen.png)
