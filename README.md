@@ -3,7 +3,7 @@
 A secure web platform for sending letters to nursing homes.  
 **STEAM Project** | Anania Shirakatsi Lyceum
 
-Original page: [CLICK HERE](https://serundneri-kamurj.web.app/) (letters are no longer accepted) | 
+Original page: [CLICK HERE](https://serundneri-kamurj.web.app/) (Archive mode, DEMO) | 
 GitHub page: [CLICK HERE](https://twist-code1.github.io/Serundneri-kamurj/)
 
 > **Real-world Impact:** 30+ letters delivered across 3 nursing homes (Feb–Mar 2026).
@@ -21,11 +21,13 @@ GitHub page: [CLICK HERE](https://twist-code1.github.io/Serundneri-kamurj/)
 
 ## ✨ Features & Security
 
-* **Dual-Layer Validation:** * **Client-side (JS):** Strict input sanitization and form validation before submission.
-    * **Server-side (Firebase):** Security Rules configured to prevent unauthorized data injection.
-* **Responsive Architecture:** Fully optimized for mobile, tablet, and desktop (Adaptive UI + Custom Mobile Menu).
-* **Live Messaging:** Real-time data sync via Firebase integration.
-* **Data Viz:** Loneliness statistics tracking via Chart.js.
+* **Secure & Clean Data**: Double-checked on both the user side (JS) and the database (Firebase) to keep everything safe.
+
+* **Mobile Friendly**: Fully optimized for phones, tablets, and desktops with a custom mobile menu.
+
+* **Real-Time Messages**: Instant chat and data syncing powered by Firebase.
+
+* **Easy-to-Read Stats**: Clear charts and visuals using Chart.js to track loneliness data.
 
 ---
 
